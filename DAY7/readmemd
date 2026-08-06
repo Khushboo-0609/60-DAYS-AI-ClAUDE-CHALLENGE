@@ -1,1 +1,54 @@
+# Day 7 – Claude Usage Strategy
 
+## 🚀 ABTalks 60-Day Claude AI Mastery Challenge
+
+### 📌 Topic
+Choosing the Right Claude Model & Effort Level
+
+## 🎯 Objective
+
+The goal of Day 7 was to understand how different Claude models and reasoning effort levels can be selected based on the type and complexity of a task.
+
+## 🧠 What I Learned
+
+Claude provides different models and effort levels for different types of work:
+
+- **Haiku** – Best for fast answers, summaries, rewrites, and simple tasks.
+- **Sonnet** – A balanced choice for everyday learning, coding, and general work.
+- **Opus** – Useful for deep research, complex reasoning, strategy, and advanced planning.
+- **Effort Levels** – Low, Standard, High, and Max can be selected depending on how much reasoning a task requires.
+
+## 🛠️ My Claude Usage Strategy
+
+| Task | Best Model | Effort | Reason |
+|------|------------|--------|--------|
+| Quick questions | Haiku | Low | Fast response |
+| Learning & explanations | Sonnet | Standard | Good balance |
+| Coding & debugging | Sonnet | Standard/High | Better reasoning |
+| Deep research | Opus | High | Complex analysis |
+| Career planning | Sonnet | High | Detailed recommendations |
+| Complex strategy | Opus | High/Max | Advanced reasoning |
+
+## 💡 Biggest Learning
+
+The most powerful model is not always necessary.
+
+Choosing the **right model + right effort level** for each task can improve both **output quality and efficiency**.
+
+## ⚡ Final Recommendation
+
+For most of my daily work, I would use **Sonnet with Standard effort** because it provides a strong balance between speed, quality, and reasoning.
+
+I would switch to **High/Max effort or Opus** when working on complex research, strategy, or difficult problems.
+
+## 📸 Deliverables
+
+- Personalized Claude Usage Strategy
+- Screenshots of Claude workflow
+- Key learnings and observations
+
+## 🏷️ Challenge
+
+**ABTalks 60-Day Claude AI Mastery Challenge**
+
+#60DayClaudeChallenge #ClaudeAI #AI #PromptEngineering #AIProductivity
