@@ -1,1 +1,52 @@
+# Day 8 – Personal Environmental Health Analyzer
 
+## 🚀 ABTalks 60-Day Claude AI Mastery Challenge
+
+### 📌 Topic
+Building Interactive AI Applications with Claude Artifacts
+
+## 🎯 Objective
+
+Learn how Claude Artifacts can generate complete interactive HTML applications from a well-designed prompt.
+
+## 🌍 Project
+
+**Personal Environmental Health Analyzer**
+
+An AI-powered interactive dashboard that analyzes environmental health data and presents insights through charts, filters, scorecards, and recommendations.
+
+## ✨ Features
+
+- Interactive Dashboard
+- AQI Analysis
+- PM2.5 & PM10 Charts
+- City Ranking
+- Environmental Health Score
+- Air & Water Quality Report Cards
+- Personalized Recommendations
+- Mobile Responsive Design
+- Dark Theme UI
+
+## 🧠 What I Learned
+
+- Claude Artifacts can generate complete HTML applications.
+- Better prompts produce better dashboards.
+- AI can combine data analysis, UI design, and frontend development.
+- Interactive applications provide a much better user experience than plain text.
+
+## 📁 Deliverables
+
+- Interactive HTML Application
+- Dashboard Screenshots
+- Day8.md Documentation
+- Learning Notes
+
+## 💡 Key Takeaway
+
+Prompt engineering is no longer just about getting better answers—it can also be used to create complete AI-powered applications.
+
+---
+
+**Challenge:** ABTalks 60-Day Claude AI Mastery Challenge
+
+#60DayClaudeChallenge #ClaudeAI #AI #Dashboard #PromptEngineering
